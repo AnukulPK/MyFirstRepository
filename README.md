@@ -1,2 +1,5 @@
 # MyFirstRepository
-# My first line for a new commit 
+
+# My first line for a new commit
+
+Another line to test a commit
